@@ -44,6 +44,8 @@ Select language ❯ [Deutsch](./i18n/PLUGIN_GUIDE_de.md) • [English](./i18n/PL
 | [weather](https://github.com/vladelaina/Catime-Plugins/blob/main/plugins/weather.bat) | Weather forecast | <img width="406" height="286" alt="image" src="https://github.com/user-attachments/assets/8699a7fd-d88a-4348-9f9c-039b5a075f7a" /> |  |
 | [youtube_channel](https://github.com/vladelaina/Catime-Plugins/blob/main/plugins/youtube_channel.bat) | YouTube channel | <img width="1093" height="494" alt="image" src="https://github.com/user-attachments/assets/7273e482-4ab3-4ddd-ac63-94b4078b1a74" /> |  |
 | [youtube_video](https://github.com/vladelaina/Catime-Plugins/blob/main/plugins/youtube_video.bat) | YouTube video stats |  <img width="1413" height="278" alt="image" src="https://github.com/user-attachments/assets/850a40b7-7d80-4294-8246-b4f88289d08b" />|  |
+| [gold monitor](https://github.com/vladelaina/Catime-Plugins/blob/main/plugins/au-monitor.bat) | gold monitor|  <img width="1413" height="278" alt="image" src="https://github.com/user-attachments/assets/057fa40a-0eea-4f84-bea7-61ff8ba70560" />|  |
+
 
 </div>
 
